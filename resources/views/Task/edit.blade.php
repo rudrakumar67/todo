@@ -6,7 +6,7 @@
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">
-                    {{ __('Add task') }}
+                    {{ __('Edit task') }}
                 </div>
                 <div class="card-body">
                 @if ($errors->any())
